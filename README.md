@@ -1,3 +1,4 @@
+![Illustration of a Person standing in front of a news article. The news article has grey and yellow text lines. Two modules are connected to those textlines, one stating "biased" (yellow) and one stating "not biased" (grey)](/TeaserImage.png)
 # NewsUnfold
 This repository includes all files relevant to the paper "NewsUnfold: Creating a News-Reading Application That Indicates Linguistic
 Media Bias and Collects Feedback."
