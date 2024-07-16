@@ -45,3 +45,8 @@ So far, the dataset has been used on top of BABE to train a linguistic bias clas
 The dataset will be open source. On acceptance, a link with all details and contact information will be provided. No third parties are involved.
 
 The dataset will not be maintained as it captures the first test of NewsUnfold at a specific point in time. However, new datasets will arise from further iterations. Those will be linked in the repository. Please cite the NewsUnfold paper if you use the dataset and contact us if you're interested in more information or joining the project.
+
+# Cite 
+
+Hinterreiter, S., Wessel, M., Schliski, F., Echizen, I., Latoschik, M.E., and Spinde, T. (2025). NewsUnfold: Creating a News-Reading Application That Indicates Linguistic
+Media Bias and Collects Feedback. Conditionally accepted at Proceedings of the International AAAI Conference on Web and Social Media, 19. 
